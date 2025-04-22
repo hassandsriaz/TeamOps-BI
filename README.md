@@ -17,6 +17,12 @@ Access the live Power BI dashboard here:
 
 👉 [TeamOps-BI Dashboard Website](dashboard/index.html)
 
+Or view the dashboard directly via Power BI:
+
+[![Open Power BI Dashboard](images/logo.png)](https://app.powerbi.com/reportEmbed?reportId=a28a0237-5ea5-4826-adf9-e8f08f55cc25&autoAuth=true&ctid=80bb3913-8df7-4074-9e43-1020a03a13eb)
+
+[View the dashboard in Power BI](https://app.powerbi.com/reportEmbed?reportId=a28a0237-5ea5-4826-adf9-e8f08f55cc25&autoAuth=true&ctid=80bb3913-8df7-4074-9e43-1020a03a13eb)
+
 ## Quick Start
 1. Clone this repository.
 2. Set up the MySQL database using the scripts in the `database/` folder.
@@ -25,6 +31,15 @@ Access the live Power BI dashboard here:
 
 ## Dashboard Website
 The dashboard website is a simple page that embeds the Power BI dashboard for easy access. You can find it at [`dashboard/index.html`](dashboard/index.html).
+
+## Project Images
+Below are the images used in this project:
+
+![logo](images/logo.png)
+![Developer Projects](images/dev_projects.png)
+![Developer Progress](images/dev_progress.png)
+![Developer Performance](images/dev_performance.png)
+![Developer Burden](images/dev_burden.png)
 
 ## Repository Structure
 - `code/` – Source code and notebooks
