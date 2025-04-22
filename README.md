@@ -15,13 +15,11 @@ A preview video of the dashboard is available in the [`dashboard/Dashboard.mp4`]
 ## Live Dashboard Website
 Access the live Power BI dashboard here:
 
-👉 [TeamOps-BI Dashboard Website](dashboard/index.html)
+👉[View the dashboard in Power BI](https://app.powerbi.com/reportEmbed?reportId=a28a0237-5ea5-4826-adf9-e8f08f55cc25)
 
-Or view the dashboard directly via Power BI:
 
-[![Open Power BI Dashboard](images/logo.png)](https://app.powerbi.com/reportEmbed?reportId=a28a0237-5ea5-4826-adf9-e8f08f55cc25&autoAuth=true&ctid=80bb3913-8df7-4074-9e43-1020a03a13eb)
+[![Open Power BI Dashboard](images/logo.png)](https://app.powerbi.com/reportEmbed?reportId=a28a0237-5ea5-4826-adf9-e8f08f55cc25)
 
-[View the dashboard in Power BI](https://app.powerbi.com/reportEmbed?reportId=a28a0237-5ea5-4826-adf9-e8f08f55cc25&autoAuth=true&ctid=80bb3913-8df7-4074-9e43-1020a03a13eb)
 
 ## Quick Start
 1. Clone this repository.
