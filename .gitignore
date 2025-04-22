@@ -1,0 +1,3 @@
+# Ignore sensitive notebooks
+code/langchain.ipynb
+code/llama2.ipynb
