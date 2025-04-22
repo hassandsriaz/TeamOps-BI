@@ -33,7 +33,6 @@ The dashboard website is a simple page that embeds the Power BI dashboard for ea
 ## Project Images
 Below are the images used in this project:
 
-![logo](images/logo.png)
 ![Developer Burden](images/dev_burden.png)
 ![Developer Progress](images/dev_progress.png)
 ![Developer Projects](images/dev_projects.png)
